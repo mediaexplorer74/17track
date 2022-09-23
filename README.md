@@ -2,6 +2,9 @@
 
 The application uses javascript and 17track to display information. Multi-platform Xamarin Forms "framework" used.
 
+## Screenshots
+
+![17Track](Images/shot1.png)
 
 ## 2 words 
 
